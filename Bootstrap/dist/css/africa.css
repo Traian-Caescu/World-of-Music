@@ -1,0 +1,115 @@
+html, body 
+{ 
+    margin: 0px;
+
+} 
+
+
+#africa-image img {
+    display: block;
+    height: 16%;  
+    width: 10%;
+	position: absolute;
+	left: 5%;
+}
+
+.info {
+	position: absolute;
+	top: 30%;
+	left: 20%;
+	right: 20%;
+	
+}
+#myDIV {
+	position: absolute;
+	top: 70%;
+	left: 10%;
+}
+#zimbabwe {
+	position: absolute;
+	top: 55%;
+	left: 12%;
+}
+#zimbabwe-image img {
+	display: block;
+	height: 10%;
+	width: 10%;
+	position: absolute;
+	top: 60%;
+	left: 10%;
+}
+
+#ghanaDIV {
+	position: absolute;
+	top: 70%;
+	left: 33%;
+
+}
+#ghana {
+	position: absolute;
+	top: 55%;
+	left: 43%;
+}
+#ghana-image img {
+	display: block;
+	height: 10%;
+	width: 10%;
+	position: absolute;
+	top: 60%;
+	left: 40%;
+}
+
+
+#nigeriaDIV {
+	position: absolute;
+	top: 70%;
+	left: 56%;
+}
+#nigeria {
+	position: absolute;
+	top: 55%;
+	left: 73%;
+
+}
+#nigeria-image img {
+	display: block;
+	height: 10%;
+	width: 10%;
+	position: absolute;
+	top: 60%;
+	left: 71%;
+}
+
+#more3 {
+	position: absolute;
+	top: 110%;
+	left: 67%;
+}
+#more3DIV {
+	position: absolute;
+	top: 115%;
+	left: 56%;
+}
+#more {
+	position: absolute;
+	top: 110%;
+	left: 13%;
+}
+#moreDIV {
+	position: absolute;
+	top: 115%;
+	left: 10%;
+}
+
+
+#more2 {
+	position: absolute;
+	top: 110%;
+	left: 43%;
+}
+
+#more2DIV {
+	position: absolute;
+	top: 115%;
+	left: 33%;
+}
